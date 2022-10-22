@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1666430000,,"wq!"
+|2,0,1666430366,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,38 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/test
-|4,48,2,0,1666430000,"~/test"
-'1  2  0  ~/git/test
-|4,49,2,0,1666426771,"~/git/test"
+'0  3  0  ~/test
+|4,48,3,0,1666430366,"~/test"
+'1  2  0  ~/test
+|4,49,2,0,1666430000,"~/test"
+'2  2  0  ~/test
+|4,50,2,0,1666430000,"~/test"
+'3  2  0  ~/git/test
+|4,51,2,0,1666426771,"~/git/test"
 
 # Jumplist (newest first):
+-'  3  0  ~/test
+|4,39,3,0,1666430366,"~/test"
+-'  2  0  ~/test
+|4,39,2,0,1666430344,"~/test"
 -'  2  0  ~/test
 |4,39,2,0,1666430000,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1666429964,"~/test"
 -'  1  0  ~/test
 |4,39,1,0,1666429964,"~/test"
 -'  2  0  ~/git/test
 |4,39,2,0,1666426771,"~/git/test"
 -'  2  0  ~/git/test
 |4,39,2,0,1666426771,"~/git/test"
+-'  2  0  ~/git/test
+|4,39,2,0,1666426771,"~/git/test"
+-'  2  0  ~/git/test
+|4,39,2,0,1666426771,"~/git/test"
+-'  1  0  ~/git/test
+|4,39,1,0,1666426743,"~/git/test"
+-'  1  0  ~/git/test
+|4,39,1,0,1666426743,"~/git/test"
 -'  1  0  ~/git/test
 |4,39,1,0,1666426743,"~/git/test"
 -'  1  0  ~/git/test
@@ -47,11 +65,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/test
-	*	1666429995	0
-	"	2	0
-	^	2	0
-	.	1	21
+	*	1666430362	0
+	"	3	0
+	^	3	0
+	.	2	20
 	+	1	21
+	+	2	20
 
 > ~/git/test
 	*	1666426766	0
